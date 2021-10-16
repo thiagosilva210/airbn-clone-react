@@ -34,7 +34,7 @@ function SearchPage() {
       <SearchResult
         img="https://res-4.cloudinary.com/enchanting/images/w_1600,h_700,c_fill,f_auto/et-web/2017/03/Enchanting-Travels-South-America-Tours-Argentina-Puerto-Iguaz%C3%BA-Panoramic-Iguazu-pool/hotel-panoramic-grand-argentina.jpg"
         location="Private room center in Argentina"
-        title="Stay at this beuatiful hotel"
+        title="Stay at this beutiful hotel"
         description="1 guest - 1.5 shared bathrooms -Wifi - kitchen - Free parking - washing machine"
         star={4.93}
         price="$180 / night"
